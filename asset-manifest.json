@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d08a38ab.chunk.css",
-    "main.js": "/static/js/main.5e3c5dbd.chunk.js",
-    "main.js.map": "/static/js/main.5e3c5dbd.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.884c28c3.chunk.js": "/static/js/2.884c28c3.chunk.js",
-    "static/js/2.884c28c3.chunk.js.map": "/static/js/2.884c28c3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1177445b3cf82993739b917bc945e4af.js": "/precache-manifest.1177445b3cf82993739b917bc945e4af.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d08a38ab.chunk.css.map": "/static/css/main.d08a38ab.chunk.css.map"
+    "main.css": "/clickgame/static/css/main.d08a38ab.chunk.css",
+    "main.js": "/clickgame/static/js/main.5e3c5dbd.chunk.js",
+    "main.js.map": "/clickgame/static/js/main.5e3c5dbd.chunk.js.map",
+    "runtime~main.js": "/clickgame/static/js/runtime~main.5bc58040.js",
+    "runtime~main.js.map": "/clickgame/static/js/runtime~main.5bc58040.js.map",
+    "static/js/2.884c28c3.chunk.js": "/clickgame/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/clickgame/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/clickgame/index.html",
+    "precache-manifest.aaf2207553ec31e092ac56899d5de547.js": "/clickgame/precache-manifest.aaf2207553ec31e092ac56899d5de547.js",
+    "service-worker.js": "/clickgame/service-worker.js",
+    "static/css/main.d08a38ab.chunk.css.map": "/clickgame/static/css/main.d08a38ab.chunk.css.map"
   }
 }
